@@ -1,0 +1,20 @@
+payload:
+  - GEOIP,facebook,no-resolve
+  - GEOIP,google,no-resolve
+  - GEOIP,telegram,no-resolve
+  # Bonus
+  - DOMAIN,docs.linkwarden.app
+  - DOMAIN,whoer.net
+  - DOMAIN,aka.ms
+  - DOMAIN,api.myip.com
+  - DOMAIN,ipapi.co
+  - DOMAIN,ipinfo.io
+  - DOMAIN,ipwho.is
+  - DOMAIN,myip.ms
+  - DOMAIN-KEYWORD,browserleaks
+  - DOMAIN-SUFFIX,claw.cloud
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,larksuite.com
+  - DOMAIN-SUFFIX,gitpod.io
+  - DOMAIN-SUFFIX,aryx.top
+  - DOMAIN,ip.sb

@@ -1,0 +1,23 @@
+payload:
+  - GEOIP,private,no-resolve
+  - GEOIP,cn,no-resolve
+  # Bonus
+  - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN,clash.razord.top
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN,ip.bczs.net
+  - DOMAIN,mefrp.cn
+  - DOMAIN,z2pyw.com
+  - DOMAIN-SUFFIX,aivencloud.com
+  - DOMAIN-SUFFIX,upstash.io
+  # Sites
+  - GEOSITE,private
+  - GEOSITE,google@cn
+  - GEOSITE,category-entertainment-cn
+  - GEOSITE,category-game-platforms-download
+  - GEOSITE,category-public-tracker
+  - GEOSITE,category-speedtest@cn
+  - GEOSITE,apple@cn
+  - GEOSITE,microsoft@cn
+  - GEOSITE,steam@cn
+  - GEOSITE,cn

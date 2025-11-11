@@ -1,0 +1,12 @@
+payload:
+  # Adobe
+  - DOMAIN-SUFFIX,ic.adobe.io
+  - DOMAIN-REGEX,\w{10}.adobe.io
+  - DOMAIN-REGEX,\w{10}.adobestats.io
+  # Xfer
+  - DOMAIN,xferrecords.com
+  - DOMAIN,www.xferrecords.com
+  - IP-CIDR,104.28.21.50/32,no-resolve
+  # Sites
+  - GEOSITE,category-httpdns-cn
+  - GEOSITE,category-ads-all
