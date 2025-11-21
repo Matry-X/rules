@@ -16,5 +16,4 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,larksuite.com
   - DOMAIN-SUFFIX,gitpod.io
-  - DOMAIN-SUFFIX,aryx.top
   - DOMAIN,ip.sb
