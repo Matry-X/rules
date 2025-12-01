@@ -7,9 +7,13 @@ payload:
   - DOMAIN,yacd.haishan.me
   - DOMAIN,ip.bczs.net
   - DOMAIN,mefrp.cn
+  - DOMAIN,www.inpin.fun
   - DOMAIN,z2pyw.com
   - DOMAIN-SUFFIX,aivencloud.com
+  - DOMAIN-SUFFIX,miaogongzi.net
+  - DOMAIN-SUFFIX,qoddi.com
   - DOMAIN-SUFFIX,upstash.io
+  - DOMAIN-KEYWORD,chatopens
   # Sites
   - GEOSITE,private
   - GEOSITE,google@cn
