@@ -1,7 +1,5 @@
 payload:
-  - GEOIP,private,no-resolve
-  - GEOIP,cn,no-resolve
-  # Bonus
+  - DOMAIN-SUFFIX,7risha.com
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
@@ -14,14 +12,3 @@ payload:
   - DOMAIN-SUFFIX,qoddi.com
   - DOMAIN-SUFFIX,upstash.io
   - DOMAIN-KEYWORD,chatopens
-  # Sites
-  - GEOSITE,private
-  - GEOSITE,google@cn
-  - GEOSITE,category-entertainment-cn
-  - GEOSITE,category-game-platforms-download
-  - GEOSITE,category-public-tracker
-  - GEOSITE,category-speedtest@cn
-  - GEOSITE,apple@cn
-  - GEOSITE,microsoft@cn
-  - GEOSITE,steam@cn
-  - GEOSITE,cn

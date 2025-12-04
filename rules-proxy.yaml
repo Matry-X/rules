@@ -1,8 +1,4 @@
 payload:
-  - GEOIP,facebook,no-resolve
-  - GEOIP,google,no-resolve
-  - GEOIP,telegram,no-resolve
-  # Bonus
   - DOMAIN,docs.linkwarden.app
   - DOMAIN,whoer.net
   - DOMAIN,aka.ms

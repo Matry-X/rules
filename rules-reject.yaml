@@ -7,6 +7,3 @@ payload:
   - DOMAIN,xferrecords.com
   - DOMAIN,www.xferrecords.com
   - IP-CIDR,104.28.21.50/32,no-resolve
-  # Sites
-  - GEOSITE,category-httpdns-cn
-  - GEOSITE,category-ads-all
