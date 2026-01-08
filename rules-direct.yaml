@@ -5,6 +5,7 @@ payload:
   - DOMAIN,yacd.haishan.me
   - DOMAIN,ip.bczs.net
   - DOMAIN,mefrp.cn
+  - DOMAIN,vocalremover.org
   - DOMAIN,www.inpin.fun
   - DOMAIN,z2pyw.com
   - DOMAIN-SUFFIX,aivencloud.com
@@ -12,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,qoddi.com
   - DOMAIN-SUFFIX,upstash.io
   - DOMAIN-KEYWORD,chatopens
+  - DOMAIN-KEYWORD,chmlfrp
