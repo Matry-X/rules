@@ -1,16 +1,17 @@
 payload:
   - DOMAIN,docs.linkwarden.app
-  - DOMAIN,whoer.net
   - DOMAIN,aka.ms
   - DOMAIN,api.myip.com
+  - DOMAIN,hdqwalls.com
+  - DOMAIN,ip.sb
   - DOMAIN,ipapi.co
   - DOMAIN,ipinfo.io
   - DOMAIN,ipwho.is
   - DOMAIN,myip.ms
+  - DOMAIN,whoer.net
   - DOMAIN-KEYWORD,browserleaks
   - DOMAIN-SUFFIX,claw.cloud
-  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,larksuite.com
   - DOMAIN-SUFFIX,gitpod.io
   - DOMAIN-SUFFIX,acg.rip
-  - DOMAIN,ip.sb
+  - DOMAIN-SUFFIX,worldsbk.com
